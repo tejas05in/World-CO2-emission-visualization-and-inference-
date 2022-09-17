@@ -1,5 +1,5 @@
 # World-CO2-emission-visualization-and-inference-
-CO2 emission data from https://www.worldometers.info/co2-emissions/   visualisation and correlation with python
+CO2 emission data of 2016 population counts from https://www.worldometers.info/co2-emissions/   visualisation and correlation with python
 
 This data visulaztion is aimed at answering the following questions
 1. Which are the countries with highest emission?
